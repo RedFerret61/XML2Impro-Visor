@@ -1,4 +1,4 @@
-#XML2Impro-Visor
+# XML2Impro-Visor
 XML2Impro-Visor converts a musicxml leadsheet (single melody with harmony chord symbols) 
 file (or files in a directory) to impro-visor style leadsheet(s).
 
@@ -37,10 +37,10 @@ The latest release has been tested on:
 
 ---
 
-##XML2Impro-Visor Installation instructions for Windows
+## XML2Impro-Visor Installation instructions for Windows
 Pre-requisites for XML2Impro-Visor include Python, and Music21.
 
-###Python Windows installation
+### Python Windows installation
  1. Firstly check python version required by Music21.
  see https://web.mit.edu/music21/doc/installing/installWindows.html
 
@@ -62,7 +62,7 @@ Pre-requisites for XML2Impro-Visor include Python, and Music21.
 
     Expect the version to be displayed e.g. Python 3.9.6
 
-###Music21 Windows installation
+### Music21 Windows installation
  
 1. Music21 Installation details at https://web.mit.edu/music21/doc/installing/installWindows.html
 
@@ -86,11 +86,11 @@ Uninstall Python by opening Control Panel, Click "Uninstall a Program", Scroll d
 
 To upgrade music21 at a later date to the latest version, 'pip uninstall music21' then 'pip install music21' again.
 
-###XML2Impro-Visor Windows installation
+### XML2Impro-Visor Windows installation
 
-####Install XML2Impro-Visor on Windows
+#### Install XML2Impro-Visor on Windows
  Download release zip to desired directory for XML2Impro-Visor and unzip with right click Extract All ...
-####Run XML2Impro-Visor on Windows 
+#### Run XML2Impro-Visor on Windows 
 
  In a Command Prompt window change to install directory and show XML2Impro-Visor help e.g.:
 
@@ -111,10 +111,10 @@ Then run using supplied mxl:
  This converts supplied musicxml (.mxl) examples to Impo-Visor leadsheets (.ls).
 
 
-##XML2Impro-Visor Installation instructions for macOS
+## XML2Impro-Visor Installation instructions for macOS
 Pre-requisites for XML2Impro-Visor include Python, and Music21.
 
-###Python on macOS:
+### Python on macOS:
  1. Firstly check python version required by Music21.
 see https://web.mit.edu/music21/doc/installing/installMac.html
 in December 2021 this recommended Python 3.9 or later.
@@ -128,7 +128,7 @@ in December 2021 this recommended Python 3.9 or later.
 
 
 
-###Music21 on macOS
+### Music21 on macOS
  
 
 1. Install Music21. In a Terminal type:
@@ -143,9 +143,9 @@ in December 2021 this recommended Python 3.9 or later.
 
 
 
-####Install XML2Impro-Visor on macOS
+#### Install XML2Impro-Visor on macOS
  Download release zip to desired directory for XML2Impro-Visor and unzip by double-clicking on the zipped file .
-####Run XML2Impro-Visor on macOS
+#### Run XML2Impro-Visor on macOS
 
  In command prompt change to install directory, make run files executable and run XML2Impro-Visor e.g.:
 
@@ -164,10 +164,10 @@ in December 2021 this recommended Python 3.9 or later.
 ```
 ---
 
-##XML2Impro-Visor Installation instructions for Ubuntu
+## XML2Impro-Visor Installation instructions for Ubuntu
 Pre-requisites for XML2Impro-Visor include Python, and Music21.
 
-###Python on Ubuntu:
+### Python on Ubuntu:
  1. Firstly check python version required by Music21.
 see https://web.mit.edu/music21/doc/installing/installLinux.html
 in October 2021 this stated Music21 requires Python 3.7+.
@@ -181,7 +181,7 @@ in October 2021 this stated Music21 requires Python 3.7+.
 The default python on Ubuntu 20.04 is compatible.
 
 
-###Music21 on Ubuntu
+### Music21 on Ubuntu
  
 1. If the package installer for Python (pip3) is not yet installed, in terminal :
 
@@ -206,9 +206,9 @@ Ignore Fortran to Python warning:  WARNING: The scripts f2py, f2py3 and f2py3.8 
 
 
 
-####Install XML2Impro-Visor on Ubuntu
+#### Install XML2Impro-Visor on Ubuntu
  Download release zip to desired directory for XML2Impro-Visor and unzip.
-####Run XML2Impro-Visor on Ubuntu
+#### Run XML2Impro-Visor on Ubuntu
 
  In command prompt change to install directory and run XML2Impro-Visor e.g.:
 
