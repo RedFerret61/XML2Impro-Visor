@@ -213,7 +213,7 @@ Ignore Fortran to Python warning:  WARNING: The scripts f2py, f2py3 and f2py3.8 
  In command prompt change to install directory and run XML2Impro-Visor e.g.:
 
  ```  
- cd ~/pycharm     
+ cd ~/XML2Impro-Visor     
 
   # display help    
  python3 XML2Impro-Visor.py -h
